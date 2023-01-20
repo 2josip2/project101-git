@@ -1,0 +1,9 @@
+{
+	"name": "project101-development-adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db9dec7e-f559-4cc3-b400-30c6ef76dac0",
+		"tenantId": "7dead032-b7f1-45c6-9020-cd31755a2efc"
+	}
+}
